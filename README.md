@@ -5,7 +5,7 @@ I wrote some of my answers of practices in the book of thinkpython2.0.17.
 
 Some of them may not be the best answers.
 
-Welcome to folk me and help to improve these answers.
+Welcome to fork me and help to improve these answers.
 
 There are also some answers provided by the author, which I added references at the beginning of the code.
 
