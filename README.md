@@ -7,6 +7,6 @@ Some of them may not be the best answers.
 
 Welcome to fork me and help to improve these answers.
 
-There are also some answers provided by the author, which I added references at the beginning of the code.
+There are also some answers provided by the author, which I added "*" in the heading.
 
 (My answers were written in Python 3.5, while the author's were in Python 2.7.)
