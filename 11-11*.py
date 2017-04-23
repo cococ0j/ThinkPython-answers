@@ -1,3 +1,11 @@
+"""
+Some function or syntex may not work in Python3.
+For example:
+word = line.strip().lower()
+print word, word[1:], word[0] + word[2:]
+"""
+
+
 """This module contains code from
 Think Python by Allen B. Downey
 http://thinkpython.com
