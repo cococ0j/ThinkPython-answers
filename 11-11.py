@@ -1,3 +1,7 @@
+"""
+Setting return True or False is essential in this part. 
+"""
+
 from pronounce import read_dictionary
 
 def make_word_dict():
