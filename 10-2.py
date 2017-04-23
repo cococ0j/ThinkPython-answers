@@ -1,3 +1,9 @@
+def capitalize_all_simple(l):
+    for i in range(len(l)):
+        
+        l[i] = l[i].capitalize()
+    return l
+
 def capitalize_all(l):
     res = []
     for element in l:
