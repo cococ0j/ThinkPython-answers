@@ -13,13 +13,9 @@ def map():
         l_word.sort()
         tuple_word = tuple(l_word)
         if tuple_word in d:
-            l = d[tuple_word]
-            l.append(word)
-            d[tuple_word] = l
+            d[tuple_word].append(word)
         else:
-            l = []
-            l.append(word)
-            d[tuple_word] = l
+            d[tuple_word] = [word]
     return d
 
 def find_anag():
